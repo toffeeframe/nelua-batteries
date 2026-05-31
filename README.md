@@ -17,7 +17,7 @@ but also a wrapper to make it easier to use it with Nelua.
 # List of libraries
 
 * `backtrace` - Provides a way to get trace backs at runtime, using the popular [libbacktrace](https://github.com/ianlancetaylor/libbacktrace) library.
-* `ffi` - Cross platform FFI for Nelua, you can use it to load symbols from shared libraries, originally created by [Rabia](https://github.com/Rabios).
+* `ffi` - Cross platform FFI for Nelua, you can use it to load symbols from shared libraries, originally created by [Rabea](https://github.com/toffeeframe).
 * `fs` - Cross platform file system library, you can use manage files and directories.
 * `json` - Parse JSON into Nelua records, made in pure Nelua.
 * `nester` - Minimal unit testing framework inspired by [lester](https://github.com/edubart/lester).
